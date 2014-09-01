@@ -1,7 +1,7 @@
 INDEX VERSION 1.127+C:\Projects\Minecraft\1.7\Beginnings\eclipse\.metadata\.plugins\org.eclipse.jdt.core
 4134191331.index
-2217652488.index
 2263419941.index
+2217652488.index
 2617827729.index
 780065497.index
 2792138627.index
@@ -13,7 +13,6 @@ INDEX VERSION 1.127+C:\Projects\Minecraft\1.7\Beginnings\eclipse\.metadata\.plug
 1834347816.index
 3828041366.index
 2082491268.index
-286606776.index
 3102339677.index
 173099854.index
 2281395163.index
@@ -49,8 +48,8 @@ INDEX VERSION 1.127+C:\Projects\Minecraft\1.7\Beginnings\eclipse\.metadata\.plug
 898958383.index
 4244561082.index
 3763721276.index
-4251765522.index
 3185171583.index
+4251765522.index
 1495235164.index
 374833421.index
 4257325822.index
